@@ -3,3 +3,9 @@
 ```
 How can I list [processes] that have been running longer than an hour in linux?
 ```
+```
+sudo apt install <package-name>
+```
+```
+apt-cache search <keyword for application>
+```
